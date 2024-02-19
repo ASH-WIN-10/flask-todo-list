@@ -1,0 +1,21 @@
+* {
+    font-family: cursive;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header h1 {
+    color: white;
+    text-align: center;
+    font-size: 50px;
+    background-color: red;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 10px 5px;
+    border-radius: 5px;
+    border: 3px solid red;
+}
+
+.submit-btn {
+    margin: 4px;   
+}
